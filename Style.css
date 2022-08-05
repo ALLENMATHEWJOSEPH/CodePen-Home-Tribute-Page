@@ -92,8 +92,8 @@ li {
 
 h2 {
     text-align: center;
-    background: skyblue;
-    color: tomato;
+    background:white;
+    color: black;
 }
 
 @media(max-width:460px) {
